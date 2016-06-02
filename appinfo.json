@@ -1,0 +1,22 @@
+{
+  "uuid": "b505e357-d69f-4bd2-a31d-6ed8b9dd6830",
+  "shortName": "PebbleNYC Timeline",
+  "longName": "PebbleNYC Timeline",
+  "companyName": "Travis La Marr",
+  "versionLabel": "1.1",
+  "sdkVersion": "3",
+  "targetPlatforms": ["aplite", "basalt", "chalk"],
+  "enableMultiJS": true,
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {
+    "CONFIG": 0,
+    "SUB": 1,
+    "STATUS": 2,
+    "GROUP": 3
+  },
+  "resources": {
+    "media": []
+  }
+}
